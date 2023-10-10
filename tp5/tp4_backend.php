@@ -11,7 +11,7 @@
     <?php
     print "<p>Almacenar en un array los 10 primeros números pares y mostrar en pantalla uno debajo del otro.</p>\n";
 
-    $pares = ['2', '4', '6', '8', '10'];
+    $pares = ['2', '4', '6', '8', '10', '12', '14', '16', '18', '20'];
 
     foreach ($pares as $valor) {
         print "<p>$valor </p>\n";
